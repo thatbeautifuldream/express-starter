@@ -1,6 +1,6 @@
 # Express Starter Kit
 
-> A boilerplate for building web applications with [Express](http://expressjs.com/). This project is in active development and is not yet ready for production use. This template will be updated as the project matures and my learnings about various industry practices.
+> A boilerplate for building web applications with [Express](http://expressjs.com/). ⚠️ This project is in active development and is not yet ready for production use. This template will be updated as the project matures and my learnings about various industry practices.
 
 ## Features
 
