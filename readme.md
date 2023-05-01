@@ -88,3 +88,5 @@ Lets take a look inside the `src` folder
 - `utils` -> contains helper methods, error classes etc.
 
 - `index.js` -> this is the entry point of the application, where we start the server and register all the routes and middlewares.
+
+- `rest.http` -> this is a file which contains all the API endpoints and their request and response bodies, this file can be used to test the APIs using the REST client extension in VS Code.
