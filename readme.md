@@ -2,6 +2,8 @@
 
 > A boilerplate for building web applications with [Express](http://expressjs.com/). ⚠️ This project is in active development and is not yet ready for production use. This template will be updated as the project matures and my learnings about various industry practices.
 
+[![image](https://user-images.githubusercontent.com/28717686/235532155-6878d8f4-ec14-4c9d-84a7-aa9fa0afaadf.png)](https://github.com/thatbeautifuldream/express-starter)
+
 ## Features
 
 - **No configuration.** Start developing instantly.
