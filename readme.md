@@ -90,3 +90,17 @@ Lets take a look inside the `src` folder
 - `index.js` -> this is the entry point of the application, where we start the server and register all the routes and middlewares.
 
 - `rest.http` -> this is a file which contains all the API endpoints and their request and response bodies, this file can be used to test the APIs using the REST client extension in VS Code.
+
+## Package Dependencies
+
+- [Express](https://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
+- [Sequelize](https://sequelize.org/) - Sequelize is a promise-based Node.js ORM for Postgres, MySQL, MariaDB, SQLite and Microsoft SQL Server.
+- [Sequelize CLI](https://www.npmjs.com/package/sequelize-cli) - The Sequelize Command Line Interface (CLI)
+- [Morgan](https://www.npmjs.com/package/morgan) - HTTP request logger middleware for node.js
+- [Dotenv](https://www.npmjs.com/package/dotenv) - Dotenv is a zero-dependency module that loads environment variables from a .env file into process.env
+- [Nodemon](https://www.npmjs.com/package/nodemon) - Nodemon is a tool that helps develop node.js based applications by automatically restarting the node application when file changes in the directory are detected.
+- [Prettier](https://prettier.io/) - Prettier is an opinionated code formatter.
+- [ESLint](https://eslint.org/) - ESLint is a tool for identifying and reporting on patterns found in ECMAScript/JavaScript code, with the goal of making code more consistent and avoiding bugs.
+- [Jest](https://jestjs.io/) - Jest is a delightful JavaScript Testing Framework with a focus on simplicity.
+- [HTTP Status Codes](https://www.npmjs.com/package/http-status-codes) - Constants enumerating the HTTP status codes.
+- [Winston](https://www.npmjs.com/package/winston) - A logger for just about everything.
